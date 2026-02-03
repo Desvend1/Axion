@@ -1,0 +1,5 @@
+{
+  "name": "Axion - Simulador de Vendas Inteligente",
+  "description": "Uma plataforma analítica para empresários gerenciarem produtos e simularem o impacto de mudanças de preço no lucro total, utilizando IA para prever a elasticidade da demanda.",
+  "requestFramePermissions": []
+}
